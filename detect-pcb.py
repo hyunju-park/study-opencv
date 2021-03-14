@@ -1,0 +1,1 @@
+# detect IC of PCB.
